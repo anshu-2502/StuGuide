@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://Anshu2502:Anushka001@cluster0.1hmuq.mongodb.net/Stuguide?retryWrites=true&w=majority",
+    "jsonwebtokenSecret": "secret",
+    "githubToken": "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"
+}
